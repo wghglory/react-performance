@@ -37,7 +37,7 @@
 ## System Requirements
 
 - [git][git] v2.13 or greater
-- [NodeJS][node] `12 || 14 || 15 || 16`
+- [NodeJS][node] `12 || 14 || 15 || 16 || 17`
 - [npm][npm] v6 or greater
 
 All of these must be available in your `PATH`. To verify things are set up
@@ -142,7 +142,7 @@ Each exercise has comments in it to help you get through the exercise. These fun
 emoji characters are here to help you.
 
 - **Kody the Koala** 🐨 will tell you when there's something specific you should
-  do version
+  do
 - **Marty the Money Bag** 💰 will give you specific tips (and sometimes code)
   along the way
 - **Hannah the Hundred** 💯 will give you extra challenges you can do if you
@@ -211,6 +211,16 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/0xnoob"><img src="https://avatars.githubusercontent.com/u/49793844?v=4?s=100" width="100px;" alt=""/><br /><sub><b>0xnoob</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=0xnoob" title="Code">💻</a> <a href="https://github.com/kentcdodds/react-performance/commits?author=0xnoob" title="Documentation">📖</a></td>
     <td align="center"><a href="https://emildev.netlify.app/"><img src="https://avatars.githubusercontent.com/u/10499067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emil Esplund</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=esplito" title="Tests">⚠️</a></td>
     <td align="center"><a href="http://swiftwithjustin.co"><img src="https://avatars.githubusercontent.com/u/5117473?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Justin Stanley</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=jstheoriginal" title="Tests">⚠️</a></td>
+    <td align="center"><a href="http://pavlos.dev"><img src="https://avatars.githubusercontent.com/u/100233?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pavlos Vinieratos</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=pvinis" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Reignable"><img src="https://avatars.githubusercontent.com/u/18505669?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joe Barrett</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=Reignable" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/LochMess"><img src="https://avatars.githubusercontent.com/u/18762221?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LochMess</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=LochMess" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://codewars.com/users/mstosio"><img src="https://avatars.githubusercontent.com/u/10117225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michal</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=mstosio" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/marioleed"><img src="https://avatars.githubusercontent.com/u/1763448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mario Sannum</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=marioleed" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/CJThornburg"><img src="https://avatars.githubusercontent.com/u/59716885?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CJThornburg</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=CJThornburg" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.lucianoayres.com.br"><img src="https://avatars.githubusercontent.com/u/20209393?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luciano Ayres</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=lucianoayres" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/skgyan"><img src="https://avatars.githubusercontent.com/u/5046860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sushil Kumar</b></sub></a><br /><a href="https://github.com/kentcdodds/react-performance/commits?author=skgyan" title="Code">💻</a></td>
   </tr>
 </table>
 

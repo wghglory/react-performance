@@ -311,6 +311,78 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "pvinis",
+      "name": "Pavlos Vinieratos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100233?v=4",
+      "profile": "http://pavlos.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Reignable",
+      "name": "Joe Barrett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18505669?v=4",
+      "profile": "https://github.com/Reignable",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "LochMess",
+      "name": "LochMess",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18762221?v=4",
+      "profile": "https://github.com/LochMess",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mstosio",
+      "name": "Michal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10117225?v=4",
+      "profile": "http://codewars.com/users/mstosio",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "marioleed",
+      "name": "Mario Sannum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1763448?v=4",
+      "profile": "https://github.com/marioleed",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "CJThornburg",
+      "name": "CJThornburg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59716885?v=4",
+      "profile": "https://github.com/CJThornburg",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "lucianoayres",
+      "name": "Luciano Ayres",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20209393?v=4",
+      "profile": "http://www.lucianoayres.com.br",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "skgyan",
+      "name": "Sushil Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5046860?v=4",
+      "profile": "https://github.com/skgyan",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "repoHost": "https://github.com",
